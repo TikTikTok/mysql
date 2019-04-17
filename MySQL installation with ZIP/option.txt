@@ -1,0 +1,5 @@
+[mysqld]
+# set basedir to your installation path
+basedir=F:\\Softwares\\mysql-5.7.25-winx64
+# set datadir to the location of your data directory
+datadir=F:\\Softwares\\mysql-5.7.25-winx64\\data

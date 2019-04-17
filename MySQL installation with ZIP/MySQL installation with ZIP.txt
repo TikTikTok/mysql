@@ -1,0 +1,8 @@
+1. create a data folder in home directory of mysql
+2. create my.ini file(file given for the reference)
+3. create option file and mention the basedir(mysql home directory) and datadir(data directory created for mysql).
+4. open command propmt --> go to mysql home --> go to bin --> type mysqld --console
+5. check if the mysql installation was successful by command.  
+6. type  mysql -u root -p -h localhost , hit enter
+7. type password. if password is not set just hit enter.
+8. if everything is gone correclty it should be connected with mysql.
